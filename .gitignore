@@ -1,0 +1,10 @@
+log
+*.log
+*.json
+shada
+undo
+swap
+lazy
+mason-registry-update
+sessions
+.gitconfig
