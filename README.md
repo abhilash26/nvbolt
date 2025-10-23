@@ -1,4 +1,4 @@
-# Zenedit
+# NvBolt
 
 My own neovim config. Inspirations taken from LazyVim, kickstart and different other open source configs.
 
